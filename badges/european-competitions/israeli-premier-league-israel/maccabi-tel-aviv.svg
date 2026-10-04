@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36" role="img" aria-labelledby="title">
+  <title id="title">Maccabi Tel Aviv text badge</title>
+  <rect width="160" height="36" rx="3" fill="#806700"/>
+  <text x="50%" y="50%" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.6" textLength="140" lengthAdjust="spacingAndGlyphs">MACCABI TEL AVIV</text>
+</svg>
