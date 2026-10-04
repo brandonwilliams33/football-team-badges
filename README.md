@@ -1,6 +1,6 @@
 # Football Team Badges
 
-Reusable, text-only Shields.io badges for GitHub profiles and READMEs. Each badge uses only the club name and one recognizable club-color background; none uses an official logo, crest, or crest-like artwork. The preview links to the club's official website. The [badge catalogue repository](https://github.com/brandonwilliams33/football-team-badges) is the source for these examples.
+Reusable, text-only club badges for GitHub profiles and READMEs. League badges use Shields.io, while the European competition section also includes standalone SVG files. Each badge uses only the club name and one recognizable club-color background; none uses an official logo, crest, or crest-like artwork. The preview links to the club's official website. The [badge catalogue repository](https://github.com/brandonwilliams33/football-team-badges) is the source for these examples.
 
 ## Season and sources
 
@@ -140,3 +140,273 @@ Source: [official Ligue 1 standings](https://ligue1.com/en/competitions/ligue1/s
 | ESTAC Troyes | [![ESTAC Troyes](https://img.shields.io/badge/ESTAC_Troyes-%E2%80%8B?color=005CA9&style=for-the-badge)](https://www.estac.fr/) | `[![ESTAC Troyes](https://img.shields.io/badge/ESTAC_Troyes-%E2%80%8B?color=005CA9&style=for-the-badge)](https://www.estac.fr/)` |
 
 These are text-only fan badges, not official club crests.
+
+## European competitions
+
+This section adds clubs from outside the five leagues above that appeared in the group stage or league phase of the UEFA Champions League, Europa League, or Conference League during the five completed seasons from **2021–22 through 2025–26**. Qualifying rounds are not included. Participation is based on the [Champions League](https://www.uefa.com/uefachampionsleague/history/), [Europa League](https://www.uefa.com/uefaeuropaleague/history/), and [Conference League](https://www.uefa.com/uefaconferenceleague/history/) season archives. Clubs are grouped by their domestic league. Each has a standalone SVG file under `badges/european-competitions/`; these are text-only badges in the same single-color style, not approximations of the clubs' official crests. Run `python3 scripts/generate_european_badges.py` to regenerate the SVGs and README entries.
+
+### Primeira Liga (Portugal)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Benfica | [![Benfica](badges/european-competitions/primeira-liga-portugal/benfica.svg)](https://www.slbenfica.pt/) | `[![Benfica](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/primeira-liga-portugal/benfica.svg)](https://www.slbenfica.pt/)` |
+| Braga | [![Braga](badges/european-competitions/primeira-liga-portugal/braga.svg)](https://scbraga.pt/) | `[![Braga](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/primeira-liga-portugal/braga.svg)](https://scbraga.pt/)` |
+| Porto | [![Porto](badges/european-competitions/primeira-liga-portugal/porto.svg)](https://www.fcporto.pt/) | `[![Porto](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/primeira-liga-portugal/porto.svg)](https://www.fcporto.pt/)` |
+| Sporting CP | [![Sporting CP](badges/european-competitions/primeira-liga-portugal/sporting-cp.svg)](https://www.sporting.pt/) | `[![Sporting CP](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/primeira-liga-portugal/sporting-cp.svg)](https://www.sporting.pt/)` |
+| Vitória SC | [![Vitória SC](badges/european-competitions/primeira-liga-portugal/vitoria-sc.svg)](https://vitoriasc.pt/) | `[![Vitória SC](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/primeira-liga-portugal/vitoria-sc.svg)](https://vitoriasc.pt/)` |
+
+### Eredivisie (Netherlands)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Ajax | [![Ajax](badges/european-competitions/eredivisie-netherlands/ajax.svg)](https://english.ajax.nl/) | `[![Ajax](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eredivisie-netherlands/ajax.svg)](https://english.ajax.nl/)` |
+| AZ Alkmaar | [![AZ Alkmaar](badges/european-competitions/eredivisie-netherlands/az-alkmaar.svg)](https://www.az.nl/) | `[![AZ Alkmaar](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eredivisie-netherlands/az-alkmaar.svg)](https://www.az.nl/)` |
+| Feyenoord | [![Feyenoord](badges/european-competitions/eredivisie-netherlands/feyenoord.svg)](https://www.feyenoord.com/) | `[![Feyenoord](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eredivisie-netherlands/feyenoord.svg)](https://www.feyenoord.com/)` |
+| PSV Eindhoven | [![PSV Eindhoven](badges/european-competitions/eredivisie-netherlands/psv-eindhoven.svg)](https://www.psv.nl/) | `[![PSV Eindhoven](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eredivisie-netherlands/psv-eindhoven.svg)](https://www.psv.nl/)` |
+| FC Twente | [![FC Twente](badges/european-competitions/eredivisie-netherlands/fc-twente.svg)](https://www.fctwente.nl/) | `[![FC Twente](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eredivisie-netherlands/fc-twente.svg)](https://www.fctwente.nl/)` |
+
+### Belgian Pro League (Belgium)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Royal Antwerp | [![Royal Antwerp](badges/european-competitions/belgian-pro-league-belgium/royal-antwerp.svg)](https://royalantwerpfc.be/) | `[![Royal Antwerp](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/royal-antwerp.svg)](https://royalantwerpfc.be/)` |
+| Club Brugge | [![Club Brugge](badges/european-competitions/belgian-pro-league-belgium/club-brugge.svg)](https://www.clubbrugge.be/) | `[![Club Brugge](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/club-brugge.svg)](https://www.clubbrugge.be/)` |
+| Cercle Brugge | [![Cercle Brugge](badges/european-competitions/belgian-pro-league-belgium/cercle-brugge.svg)](https://www.cerclebrugge.be/) | `[![Cercle Brugge](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/cercle-brugge.svg)](https://www.cerclebrugge.be/)` |
+| KAA Gent | [![KAA Gent](badges/european-competitions/belgian-pro-league-belgium/kaa-gent.svg)](https://www.kaagent.be/) | `[![KAA Gent](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/kaa-gent.svg)](https://www.kaagent.be/)` |
+| KRC Genk | [![KRC Genk](badges/european-competitions/belgian-pro-league-belgium/krc-genk.svg)](https://www.krcgenk.be/) | `[![KRC Genk](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/krc-genk.svg)](https://www.krcgenk.be/)` |
+| Union Saint-Gilloise | [![Union Saint-Gilloise](badges/european-competitions/belgian-pro-league-belgium/union-saint-gilloise.svg)](https://rusg.brussels/) | `[![Union Saint-Gilloise](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/belgian-pro-league-belgium/union-saint-gilloise.svg)](https://rusg.brussels/)` |
+
+### Premiership (Scotland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Celtic | [![Celtic](badges/european-competitions/premiership-scotland/celtic.svg)](https://www.celticfc.com/) | `[![Celtic](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premiership-scotland/celtic.svg)](https://www.celticfc.com/)` |
+| Heart of Midlothian | [![Heart of Midlothian](badges/european-competitions/premiership-scotland/heart-of-midlothian.svg)](https://www.heartsfc.co.uk/) | `[![Heart of Midlothian](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premiership-scotland/heart-of-midlothian.svg)](https://www.heartsfc.co.uk/)` |
+| Rangers | [![Rangers](badges/european-competitions/premiership-scotland/rangers.svg)](https://www.rangers.co.uk/) | `[![Rangers](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premiership-scotland/rangers.svg)](https://www.rangers.co.uk/)` |
+
+### Austrian Bundesliga (Austria)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| LASK | [![LASK](badges/european-competitions/austrian-bundesliga-austria/lask.svg)](https://www.lask.at/) | `[![LASK](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/austrian-bundesliga-austria/lask.svg)](https://www.lask.at/)` |
+| Red Bull Salzburg | [![Red Bull Salzburg](badges/european-competitions/austrian-bundesliga-austria/red-bull-salzburg.svg)](https://www.redbullsalzburg.at/) | `[![Red Bull Salzburg](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/austrian-bundesliga-austria/red-bull-salzburg.svg)](https://www.redbullsalzburg.at/)` |
+| Rapid Wien | [![Rapid Wien](badges/european-competitions/austrian-bundesliga-austria/rapid-wien.svg)](https://www.skrapid.at/) | `[![Rapid Wien](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/austrian-bundesliga-austria/rapid-wien.svg)](https://www.skrapid.at/)` |
+| Sturm Graz | [![Sturm Graz](badges/european-competitions/austrian-bundesliga-austria/sturm-graz.svg)](https://www.sksturm.at/) | `[![Sturm Graz](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/austrian-bundesliga-austria/sturm-graz.svg)](https://www.sksturm.at/)` |
+
+### Süper Lig (Türkiye)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Beşiktaş | [![Beşiktaş](badges/european-competitions/super-lig-turkiye/besiktas.svg)](https://www.bjk.com.tr/) | `[![Beşiktaş](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/besiktas.svg)](https://www.bjk.com.tr/)` |
+| Fenerbahçe | [![Fenerbahçe](badges/european-competitions/super-lig-turkiye/fenerbahce.svg)](https://www.fenerbahce.org/) | `[![Fenerbahçe](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/fenerbahce.svg)](https://www.fenerbahce.org/)` |
+| Galatasaray | [![Galatasaray](badges/european-competitions/super-lig-turkiye/galatasaray.svg)](https://www.galatasaray.org/) | `[![Galatasaray](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/galatasaray.svg)](https://www.galatasaray.org/)` |
+| İstanbul Başakşehir | [![İstanbul Başakşehir](badges/european-competitions/super-lig-turkiye/istanbul-basaksehir.svg)](https://www.ibfk.com.tr/) | `[![İstanbul Başakşehir](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/istanbul-basaksehir.svg)](https://www.ibfk.com.tr/)` |
+| Sivasspor | [![Sivasspor](badges/european-competitions/super-lig-turkiye/sivasspor.svg)](https://www.sivasspor.org.tr/) | `[![Sivasspor](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/sivasspor.svg)](https://www.sivasspor.org.tr/)` |
+| Trabzonspor | [![Trabzonspor](badges/european-competitions/super-lig-turkiye/trabzonspor.svg)](https://www.trabzonspor.org.tr/) | `[![Trabzonspor](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-lig-turkiye/trabzonspor.svg)](https://www.trabzonspor.org.tr/)` |
+
+### Super League Greece (Greece)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| AEK Athens | [![AEK Athens](badges/european-competitions/super-league-greece-greece/aek-athens.svg)](https://www.aekfc.gr/) | `[![AEK Athens](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-league-greece-greece/aek-athens.svg)](https://www.aekfc.gr/)` |
+| Olympiacos | [![Olympiacos](badges/european-competitions/super-league-greece-greece/olympiacos.svg)](https://www.olympiacos.org/) | `[![Olympiacos](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-league-greece-greece/olympiacos.svg)](https://www.olympiacos.org/)` |
+| Panathinaikos | [![Panathinaikos](badges/european-competitions/super-league-greece-greece/panathinaikos.svg)](https://www.pao.gr/) | `[![Panathinaikos](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-league-greece-greece/panathinaikos.svg)](https://www.pao.gr/)` |
+| PAOK | [![PAOK](badges/european-competitions/super-league-greece-greece/paok.svg)](https://www.paokfc.gr/) | `[![PAOK](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/super-league-greece-greece/paok.svg)](https://www.paokfc.gr/)` |
+
+### Swiss Super League (Switzerland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Basel | [![Basel](badges/european-competitions/swiss-super-league-switzerland/basel.svg)](https://www.fcb.ch/) | `[![Basel](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/swiss-super-league-switzerland/basel.svg)](https://www.fcb.ch/)` |
+| BSC Young Boys | [![BSC Young Boys](badges/european-competitions/swiss-super-league-switzerland/bsc-young-boys.svg)](https://www.bscyb.ch/) | `[![BSC Young Boys](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/swiss-super-league-switzerland/bsc-young-boys.svg)](https://www.bscyb.ch/)` |
+| Lugano | [![Lugano](badges/european-competitions/swiss-super-league-switzerland/lugano.svg)](https://www.fclugano.com/) | `[![Lugano](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/swiss-super-league-switzerland/lugano.svg)](https://www.fclugano.com/)` |
+| Servette | [![Servette](badges/european-competitions/swiss-super-league-switzerland/servette.svg)](https://www.servettefc.ch/) | `[![Servette](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/swiss-super-league-switzerland/servette.svg)](https://www.servettefc.ch/)` |
+
+### Superliga (Denmark)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Brøndby IF | [![Brøndby IF](badges/european-competitions/superliga-denmark/brndby-if.svg)](https://brondby.com/) | `[![Brøndby IF](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/superliga-denmark/brndby-if.svg)](https://brondby.com/)` |
+| FC Copenhagen | [![FC Copenhagen](badges/european-competitions/superliga-denmark/fc-copenhagen.svg)](https://www.fck.dk/) | `[![FC Copenhagen](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/superliga-denmark/fc-copenhagen.svg)](https://www.fck.dk/)` |
+| FC Midtjylland | [![FC Midtjylland](badges/european-competitions/superliga-denmark/fc-midtjylland.svg)](https://www.fcm.dk/) | `[![FC Midtjylland](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/superliga-denmark/fc-midtjylland.svg)](https://www.fcm.dk/)` |
+| Nordsjælland | [![Nordsjælland](badges/european-competitions/superliga-denmark/nordsjlland.svg)](https://fcn.dk/) | `[![Nordsjælland](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/superliga-denmark/nordsjlland.svg)](https://fcn.dk/)` |
+
+### Ukrainian Premier League (Ukraine)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Dynamo Kyiv | [![Dynamo Kyiv](badges/european-competitions/ukrainian-premier-league-ukraine/dynamo-kyiv.svg)](https://fcdynamo.com/) | `[![Dynamo Kyiv](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ukrainian-premier-league-ukraine/dynamo-kyiv.svg)](https://fcdynamo.com/)` |
+| Shakhtar Donetsk | [![Shakhtar Donetsk](badges/european-competitions/ukrainian-premier-league-ukraine/shakhtar-donetsk.svg)](https://shakhtar.com/) | `[![Shakhtar Donetsk](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ukrainian-premier-league-ukraine/shakhtar-donetsk.svg)](https://shakhtar.com/)` |
+| Zorya Luhansk | [![Zorya Luhansk](badges/european-competitions/ukrainian-premier-league-ukraine/zorya-luhansk.svg)](https://zorya-lugansk.com/) | `[![Zorya Luhansk](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ukrainian-premier-league-ukraine/zorya-luhansk.svg)](https://zorya-lugansk.com/)` |
+
+### Czech First League (Czechia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Jablonec | [![Jablonec](badges/european-competitions/czech-first-league-czechia/jablonec.svg)](https://www.fkjablonec.cz/) | `[![Jablonec](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/czech-first-league-czechia/jablonec.svg)](https://www.fkjablonec.cz/)` |
+| Slavia Prague | [![Slavia Prague](badges/european-competitions/czech-first-league-czechia/slavia-prague.svg)](https://www.slavia.cz/) | `[![Slavia Prague](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/czech-first-league-czechia/slavia-prague.svg)](https://www.slavia.cz/)` |
+| Slovácko | [![Slovácko](badges/european-competitions/czech-first-league-czechia/slovacko.svg)](https://www.fcslovacko.cz/) | `[![Slovácko](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/czech-first-league-czechia/slovacko.svg)](https://www.fcslovacko.cz/)` |
+| Sparta Prague | [![Sparta Prague](badges/european-competitions/czech-first-league-czechia/sparta-prague.svg)](https://sparta.cz/) | `[![Sparta Prague](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/czech-first-league-czechia/sparta-prague.svg)](https://sparta.cz/)` |
+| Viktoria Plzeň | [![Viktoria Plzeň](badges/european-competitions/czech-first-league-czechia/viktoria-plzen.svg)](https://www.fcviktoria.cz/) | `[![Viktoria Plzeň](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/czech-first-league-czechia/viktoria-plzen.svg)](https://www.fcviktoria.cz/)` |
+
+### Ekstraklasa (Poland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Jagiellonia Białystok | [![Jagiellonia Białystok](badges/european-competitions/ekstraklasa-poland/jagiellonia-biaystok.svg)](https://www.jagiellonia.pl/) | `[![Jagiellonia Białystok](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ekstraklasa-poland/jagiellonia-biaystok.svg)](https://www.jagiellonia.pl/)` |
+| Lech Poznań | [![Lech Poznań](badges/european-competitions/ekstraklasa-poland/lech-poznan.svg)](https://www.lechpoznan.pl/) | `[![Lech Poznań](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ekstraklasa-poland/lech-poznan.svg)](https://www.lechpoznan.pl/)` |
+| Legia Warsaw | [![Legia Warsaw](badges/european-competitions/ekstraklasa-poland/legia-warsaw.svg)](https://www.legia.com/) | `[![Legia Warsaw](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ekstraklasa-poland/legia-warsaw.svg)](https://www.legia.com/)` |
+| Raków Częstochowa | [![Raków Częstochowa](badges/european-competitions/ekstraklasa-poland/rakow-czestochowa.svg)](https://rakow.com/) | `[![Raków Częstochowa](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/ekstraklasa-poland/rakow-czestochowa.svg)](https://rakow.com/)` |
+
+### SuperSport HNL (Croatia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Dinamo Zagreb | [![Dinamo Zagreb](badges/european-competitions/supersport-hnl-croatia/dinamo-zagreb.svg)](https://gnkdinamo.hr/) | `[![Dinamo Zagreb](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/supersport-hnl-croatia/dinamo-zagreb.svg)](https://gnkdinamo.hr/)` |
+
+### Serbian SuperLiga (Serbia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Partizan | [![Partizan](badges/european-competitions/serbian-superliga-serbia/partizan.svg)](https://www.partizan.rs/) | `[![Partizan](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/serbian-superliga-serbia/partizan.svg)](https://www.partizan.rs/)` |
+| Red Star Belgrade | [![Red Star Belgrade](badges/european-competitions/serbian-superliga-serbia/red-star-belgrade.svg)](https://www.crvenazvezdafk.com/) | `[![Red Star Belgrade](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/serbian-superliga-serbia/red-star-belgrade.svg)](https://www.crvenazvezdafk.com/)` |
+| TSC Bačka Topola | [![TSC Bačka Topola](badges/european-competitions/serbian-superliga-serbia/tsc-backa-topola.svg)](https://www.fktsc.com/) | `[![TSC Bačka Topola](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/serbian-superliga-serbia/tsc-backa-topola.svg)](https://www.fktsc.com/)` |
+
+### Cypriot First Division (Cyprus)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| AEK Larnaca | [![AEK Larnaca](badges/european-competitions/cypriot-first-division-cyprus/aek-larnaca.svg)](https://www.aek.com.cy/) | `[![AEK Larnaca](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/cypriot-first-division-cyprus/aek-larnaca.svg)](https://www.aek.com.cy/)` |
+| Omonia | [![Omonia](badges/european-competitions/cypriot-first-division-cyprus/omonia.svg)](https://www.omonoiafc.com.cy/) | `[![Omonia](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/cypriot-first-division-cyprus/omonia.svg)](https://www.omonoiafc.com.cy/)` |
+| Pafos FC | [![Pafos FC](badges/european-competitions/cypriot-first-division-cyprus/pafos-fc.svg)](https://pafosfc.com.cy/) | `[![Pafos FC](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/cypriot-first-division-cyprus/pafos-fc.svg)](https://pafosfc.com.cy/)` |
+
+### Israeli Premier League (Israel)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Hapoel Be'er Sheva | [![Hapoel Be'er Sheva](badges/european-competitions/israeli-premier-league-israel/hapoel-be-er-sheva.svg)](https://hbsfc.co.il/) | `[![Hapoel Be'er Sheva](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/israeli-premier-league-israel/hapoel-be-er-sheva.svg)](https://hbsfc.co.il/)` |
+| Maccabi Haifa | [![Maccabi Haifa](badges/european-competitions/israeli-premier-league-israel/maccabi-haifa.svg)](https://www.mhaifa.co.il/) | `[![Maccabi Haifa](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/israeli-premier-league-israel/maccabi-haifa.svg)](https://www.mhaifa.co.il/)` |
+| Maccabi Tel Aviv | [![Maccabi Tel Aviv](badges/european-competitions/israeli-premier-league-israel/maccabi-tel-aviv.svg)](https://www.maccabi-tlv.co.il/) | `[![Maccabi Tel Aviv](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/israeli-premier-league-israel/maccabi-tel-aviv.svg)](https://www.maccabi-tlv.co.il/)` |
+
+### Nemzeti Bajnokság I (Hungary)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Ferencváros | [![Ferencváros](badges/european-competitions/nemzeti-bajnoksag-i-hungary/ferencvaros.svg)](https://www.fradi.hu/) | `[![Ferencváros](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/nemzeti-bajnoksag-i-hungary/ferencvaros.svg)](https://www.fradi.hu/)` |
+
+### Azerbaijan Premier League (Azerbaijan)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Qarabağ | [![Qarabağ](badges/european-competitions/azerbaijan-premier-league-azerbaijan/qarabag.svg)](https://www.qarabagh.com/) | `[![Qarabağ](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/azerbaijan-premier-league-azerbaijan/qarabag.svg)](https://www.qarabagh.com/)` |
+
+### Kazakhstan Premier League (Kazakhstan)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Astana | [![Astana](badges/european-competitions/kazakhstan-premier-league-kazakhstan/astana.svg)](https://fcastana.kz/) | `[![Astana](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/kazakhstan-premier-league-kazakhstan/astana.svg)](https://fcastana.kz/)` |
+| Kairat Almaty | [![Kairat Almaty](badges/european-competitions/kazakhstan-premier-league-kazakhstan/kairat-almaty.svg)](https://fckairat.com/) | `[![Kairat Almaty](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/kazakhstan-premier-league-kazakhstan/kairat-almaty.svg)](https://fckairat.com/)` |
+
+### Slovak First Football League (Slovakia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Slovan Bratislava | [![Slovan Bratislava](badges/european-competitions/slovak-first-football-league-slovakia/slovan-bratislava.svg)](https://www.skslovan.com/) | `[![Slovan Bratislava](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/slovak-first-football-league-slovakia/slovan-bratislava.svg)](https://www.skslovan.com/)` |
+| Spartak Trnava | [![Spartak Trnava](badges/european-competitions/slovak-first-football-league-slovakia/spartak-trnava.svg)](https://www.fcspartaktrnava.com/) | `[![Spartak Trnava](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/slovak-first-football-league-slovakia/spartak-trnava.svg)](https://www.fcspartaktrnava.com/)` |
+
+### Slovenian PrvaLiga (Slovenia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Celje | [![Celje](badges/european-competitions/slovenian-prvaliga-slovenia/celje.svg)](https://www.nk-celje.si/) | `[![Celje](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/slovenian-prvaliga-slovenia/celje.svg)](https://www.nk-celje.si/)` |
+| Maribor | [![Maribor](badges/european-competitions/slovenian-prvaliga-slovenia/maribor.svg)](https://www.nkmaribor.com/) | `[![Maribor](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/slovenian-prvaliga-slovenia/maribor.svg)](https://www.nkmaribor.com/)` |
+| Olimpija Ljubljana | [![Olimpija Ljubljana](badges/european-competitions/slovenian-prvaliga-slovenia/olimpija-ljubljana.svg)](https://www.nkolimpija.si/) | `[![Olimpija Ljubljana](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/slovenian-prvaliga-slovenia/olimpija-ljubljana.svg)](https://www.nkolimpija.si/)` |
+
+### Bulgarian First League (Bulgaria)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| CSKA Sofia | [![CSKA Sofia](badges/european-competitions/bulgarian-first-league-bulgaria/cska-sofia.svg)](https://cska.bg/) | `[![CSKA Sofia](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/bulgarian-first-league-bulgaria/cska-sofia.svg)](https://cska.bg/)` |
+| Ludogorets Razgrad | [![Ludogorets Razgrad](badges/european-competitions/bulgarian-first-league-bulgaria/ludogorets-razgrad.svg)](https://www.ludogorets.com/) | `[![Ludogorets Razgrad](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/bulgarian-first-league-bulgaria/ludogorets-razgrad.svg)](https://www.ludogorets.com/)` |
+
+### Eliteserien (Norway)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Bodø/Glimt | [![Bodø/Glimt](badges/european-competitions/eliteserien-norway/bod-glimt.svg)](https://www.glimt.no/) | `[![Bodø/Glimt](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eliteserien-norway/bod-glimt.svg)](https://www.glimt.no/)` |
+| Molde | [![Molde](badges/european-competitions/eliteserien-norway/molde.svg)](https://www.moldefk.no/) | `[![Molde](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/eliteserien-norway/molde.svg)](https://www.moldefk.no/)` |
+
+### Allsvenskan (Sweden)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Djurgården | [![Djurgården](badges/european-competitions/allsvenskan-sweden/djurgarden.svg)](https://www.dif.se/) | `[![Djurgården](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/allsvenskan-sweden/djurgarden.svg)](https://www.dif.se/)` |
+| Elfsborg | [![Elfsborg](badges/european-competitions/allsvenskan-sweden/elfsborg.svg)](https://www.elfsborg.se/) | `[![Elfsborg](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/allsvenskan-sweden/elfsborg.svg)](https://www.elfsborg.se/)` |
+| Häcken | [![Häcken](badges/european-competitions/allsvenskan-sweden/hacken.svg)](https://www.bkhacken.se/) | `[![Häcken](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/allsvenskan-sweden/hacken.svg)](https://www.bkhacken.se/)` |
+| Malmö FF | [![Malmö FF](badges/european-competitions/allsvenskan-sweden/malmo-ff.svg)](https://www.mff.se/) | `[![Malmö FF](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/allsvenskan-sweden/malmo-ff.svg)](https://www.mff.se/)` |
+
+### Liga I (Romania)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| CFR Cluj | [![CFR Cluj](badges/european-competitions/liga-i-romania/cfr-cluj.svg)](https://cfr1907.ro/) | `[![CFR Cluj](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/liga-i-romania/cfr-cluj.svg)](https://cfr1907.ro/)` |
+| FCSB | [![FCSB](badges/european-competitions/liga-i-romania/fcsb.svg)](https://www.fcsb.ro/) | `[![FCSB](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/liga-i-romania/fcsb.svg)](https://www.fcsb.ro/)` |
+
+### League of Ireland Premier Division (Republic of Ireland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Shamrock Rovers | [![Shamrock Rovers](badges/european-competitions/league-of-ireland-premier-division-republic-of-ireland/shamrock-rovers.svg)](https://www.shamrockrovers.ie/) | `[![Shamrock Rovers](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/league-of-ireland-premier-division-republic-of-ireland/shamrock-rovers.svg)](https://www.shamrockrovers.ie/)` |
+| Shelbourne | [![Shelbourne](badges/european-competitions/league-of-ireland-premier-division-republic-of-ireland/shelbourne.svg)](https://shelbournefc.ie/) | `[![Shelbourne](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/league-of-ireland-premier-division-republic-of-ireland/shelbourne.svg)](https://shelbournefc.ie/)` |
+
+### Veikkausliiga (Finland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| HJK Helsinki | [![HJK Helsinki](badges/european-competitions/veikkausliiga-finland/hjk-helsinki.svg)](https://www.hjk.fi/) | `[![HJK Helsinki](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/veikkausliiga-finland/hjk-helsinki.svg)](https://www.hjk.fi/)` |
+| KuPS | [![KuPS](badges/european-competitions/veikkausliiga-finland/kups.svg)](https://kups.fi/) | `[![KuPS](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/veikkausliiga-finland/kups.svg)](https://kups.fi/)` |
+
+### Moldovan Super Liga (Moldova)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Petrocub Hîncești | [![Petrocub Hîncești](badges/european-competitions/moldovan-super-liga-moldova/petrocub-hincesti.svg)](https://fcpetrocub.md/) | `[![Petrocub Hîncești](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/moldovan-super-liga-moldova/petrocub-hincesti.svg)](https://fcpetrocub.md/)` |
+| Sheriff Tiraspol | [![Sheriff Tiraspol](badges/european-competitions/moldovan-super-liga-moldova/sheriff-tiraspol.svg)](https://www.fc-sheriff.com/) | `[![Sheriff Tiraspol](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/moldovan-super-liga-moldova/sheriff-tiraspol.svg)](https://www.fc-sheriff.com/)` |
+
+### Latvian Higher League (Latvia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| RFS | [![RFS](badges/european-competitions/latvian-higher-league-latvia/rfs.svg)](https://fkrfs.lv/) | `[![RFS](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/latvian-higher-league-latvia/rfs.svg)](https://fkrfs.lv/)` |
+
+### Besta deild karla (Iceland)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Breiðablik | [![Breiðablik](badges/european-competitions/besta-deild-karla-iceland/breiablik.svg)](https://www.breidablik.is/) | `[![Breiðablik](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/besta-deild-karla-iceland/breiablik.svg)](https://www.breidablik.is/)` |
+
+### Armenian Premier League (Armenia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Noah | [![Noah](badges/european-competitions/armenian-premier-league-armenia/noah.svg)](https://fc-noah.am/) | `[![Noah](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/armenian-premier-league-armenia/noah.svg)](https://fc-noah.am/)` |
+
+### Premier League of Bosnia and Herzegovina (Bosnia and Herzegovina)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Zrinjski Mostar | [![Zrinjski Mostar](badges/european-competitions/premier-league-of-bosnia-and-herzegovina-bosnia-and-herzegovina/zrinjski-mostar.svg)](https://hskzrinjski.ba/) | `[![Zrinjski Mostar](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premier-league-of-bosnia-and-herzegovina-bosnia-and-herzegovina/zrinjski-mostar.svg)](https://hskzrinjski.ba/)` |
+
+### A Lyga (Lithuania)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Žalgiris Vilnius | [![Žalgiris Vilnius](badges/european-competitions/a-lyga-lithuania/zalgiris-vilnius.svg)](https://fkzalgiris.lt/) | `[![Žalgiris Vilnius](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/a-lyga-lithuania/zalgiris-vilnius.svg)](https://fkzalgiris.lt/)` |
+
+### Premier League (Russia)
+
+| Club | Preview | Copy-paste Markdown |
+| --- | --- | --- |
+| Lokomotiv Moscow | [![Lokomotiv Moscow](badges/european-competitions/premier-league-russia/lokomotiv-moscow.svg)](https://www.fclm.ru/) | `[![Lokomotiv Moscow](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premier-league-russia/lokomotiv-moscow.svg)](https://www.fclm.ru/)` |
+| Spartak Moscow | [![Spartak Moscow](badges/european-competitions/premier-league-russia/spartak-moscow.svg)](https://spartak.com/) | `[![Spartak Moscow](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premier-league-russia/spartak-moscow.svg)](https://spartak.com/)` |
+| Zenit Saint Petersburg | [![Zenit Saint Petersburg](badges/european-competitions/premier-league-russia/zenit-saint-petersburg.svg)](https://fc-zenit.ru/) | `[![Zenit Saint Petersburg](https://raw.githubusercontent.com/brandonwilliams33/football-team-badges/main/badges/european-competitions/premier-league-russia/zenit-saint-petersburg.svg)](https://fc-zenit.ru/)` |
